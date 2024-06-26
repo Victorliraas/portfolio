@@ -1,6 +1,7 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://1drv.ms/i/s!Ar5BZNFckEyBhI8Jtq5-uQ1810ew0w?e=2VkA4B)
+![image](![Captura de tela 2024-06-26 172932](https://github.com/Victorliraas/portfolio/assets/139277118/09a4578b-7149-44ce-bc4a-59633a699926)
+)
 
 ## Ferramentas utilizadas:
 
